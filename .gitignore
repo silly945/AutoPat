@@ -1,0 +1,6 @@
+*.class
+*.dex
+build/
+out/
+*.jks
+*.keystore
